@@ -38,7 +38,3 @@ An AI-driven system to automate student admissions using CrewAI, Ollama LLaMA3, 
 ## Usage
 
 Access the system at `http://localhost:8501`.
-
-## License
-
-MIT License.
