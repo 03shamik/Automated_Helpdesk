@@ -129,7 +129,7 @@ class AdmissionOfficer:
                 self.agents["shortlisting"],
                 "Bullet-pointed evaluation of admission eligibility."
             ))
-
+        
         elif intent == "loan":
             if not student_data.get("income_certificate"):
                 keywords = ["apply", "submit", "get", "eligible", "loan"]
